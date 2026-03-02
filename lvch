@@ -40,7 +40,7 @@ CTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1435.m3u8
 CTV,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1435.m3u8
 CTV,http://iptvpro.pw:35451//live/swtv123/87654321/1435.m3u8
 
-港台 TV,#genre#
+backup 港台 TV,#genre#
 無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無綫新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 無綫新聞台,http://r.jdshipin.com/CkuBd
@@ -76,7 +76,7 @@ TVB戏曲台,http://194.147.100.173/jsy/p.php/?id=AW6igsJTU5l0vwO7clQVSQ
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVB明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 
-SW-華哥TV ,#genre#
+Update CAN TV ,#genre#
 
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
@@ -337,7 +337,7 @@ DC COUNCIL CHANNEL,http://video.oct.dc.gov/out/u/15_12.m3u8
 Country tv,https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
 W network,https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
 
-SW-TV港台,#genre#
+Update 港台,#genre#
 
 
 無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
@@ -499,7 +499,7 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 
 
 
-SW-SPORT体育 ,#genre#
+Update SPORT体育 ,#genre#
 
 TENNIS CHANNEL,https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 Tennis Channel,https://tvpass.org/live/TennisChannel/sd
@@ -702,7 +702,7 @@ RTA Sport,https://hls.rtasport.live/hls/stream.m3u8
 Hard Knocks HD,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 Hard Knocks,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
 
-解碼 選(內置),#genre#
+Update 解碼 選(內置),#genre#
 TSN 1 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
 TSN 2 UHD ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
 TSN 3 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
@@ -728,7 +728,7 @@ Crave 3,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3186.ts
 Crave 4,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3187.ts
 
 
-SW-CCTV+卫视,#genre#
+Update CCTV+卫视,#genre#
 CCTV 13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
 CGTN英语,https://0472.org/hls/cgtn.m3u8
@@ -788,4 +788,3 @@ CCTV 16,http://rihou.cc:555/tv/[mg]CCTV-16
 山西衛視,http://rihou.cc:555/tv/[mg]山西卫视
 天津衛視,http://rihou.cc:555/tv/[mg]天津卫视
 
-SW-FRANCE 法語,#genre#
