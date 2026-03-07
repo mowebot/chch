@@ -3,6 +3,7 @@ CAN Chinese,#genre#
 新時代1 E,http://208.87.242.55/livehttpplay?channel_id=50318
 新時代1 W,http://208.87.242.55/livehttpplay?channel_id=50258
 新時代2,http://208.87.242.55/livehttpplay?channel_id=50208
+城市電視,http://208.87.242.55/livehttpplay?channel_id=40319
 
 CAN,#genre#
 CP24(TEST1),http://fortv.cc:8080/b6twFE/414151/47218
@@ -49,6 +50,7 @@ Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66
 新時代1 E,http://208.87.242.55/livehttpplay?channel_id=50318
 新時代1 W,http://208.87.242.55/livehttpplay?channel_id=50258
 新時代2,http://208.87.242.55/livehttpplay?channel_id=50208
+城市電視,http://208.87.242.55/livehttpplay?channel_id=40319
 新时代 1 E 备,http://208.87.242.55/livehttpplay?channel_id=50318
 新時代 1 w 備,http://208.87.242.55/livehttpplay?channel_id=50258
 新时代 2 备,http://208.87.242.55/livehttpplay?channel_id=50208
@@ -751,6 +753,41 @@ CCTV 16,http://rihou.cc:555/tv/[mg]CCTV-16
 云南衛視,http://rihou.cc:555/tv/[mg]云南卫视
 山西衛視,http://rihou.cc:555/tv/[mg]山西卫视
 天津衛視,http://rihou.cc:555/tv/[mg]天津卫视
+
+广播电台RADIO,#genre#
+
+加拿大AM1430,https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
+加拿大AM1540,http://s2.voscast.com:9530/;
+加拿大中文电台AM1470,https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
+加拿大中文电台AM1470,https://5b2959fe11444.streamlock.net/radio/am1470.stream/chunklist_w987170920.m3u8
+AM1320華僑之聲電台,http://stream.radiojar.com/nugqupcv8qzuv.mp3
+CHMB AM1320華僑之聲電台2,http://stream.radiojar.com/60sqadqu97zuv.mp3
+
+加拿大中文电台FM 96.1,https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+加拿大中文电台FM 96.1,https://5b2959fe11444.streamlock.net/radio/fm961.stream/chunklist_w441033106.m3u8
+
+香港D100PBS新聞時事,http://59.152.232.108:8000/Channel1-128AAC
+香港电台第一台,http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+香港电台第二台,http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+香港电台第三台,http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+香港电台第四台,http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+香港电台第五台,http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+香港电台普通話台,http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
+新城電台知訊997,http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8
+新城電台財經104,http://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8
+新城電台Metro Plus AM1044,http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8
+講台talkonly,http://103.11.102.62:8000/talkonly.mp3
+
+
+加州KRRL-FM 92.3(Hip Hop),https://c8.prod.playlists.ihrhls.com/181/playlist.m3u8
+纽约WABH-AM 1380(Country),https://ice24.securenetsystems.net/WABH
+纽约WNYL-FM 92.3(另类摇滚),http://18053.live.streamtheworld.com/WNYLFMAAC_SC
+纽约WCBS-FM 101.1(Classic Hits),http://20843.live.streamtheworld.com/WCBSFMAAC_SC
+CRI 中文环球广播,http://live.xmcdn.com/live/1043/64.m3u8
+CRI 中文环球广播,http://ls.qingting.fm/live/4995.m3u8
+CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
+Fox News Talk Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+
 
 backup 港台 TV,#genre#
 無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
