@@ -917,5 +917,36 @@ HubPremier 3,http://208.87.242.55/livehttpplay?channel_id=13309
 42025 sport,http://208.87.242.55/livehttpplay?channel_id=42025
 42026 sport,http://208.87.242.55/livehttpplay?channel_id=42026
 
+Test2,#genre#
+
+DAZN 1,http://208.87.242.79/livehttpplay?channel_id=10104
+DAZN 2,,http://208.87.242.79/livehttpplay?channel_id=10105
+10125,http://208.87.242.79/livehttpplay?channel_id=10125
+10126,http://208.87.242.79/livehttpplay?channel_id=10126
+CATCHPLAY,http://208.87.242.79/livehttpplay?channel_id=10127
+CCTV4,http://208.87.242.79/livehttpplay?channel_id=10128
+LTV LONG WAH,http://208.87.242.79/livehttpplay?channel_id=10129
+CELESTIAL MOVIE,http://208.87.242.79/livehttpplay?channel_id=10130
+10131 TENNIS,http://208.87.242.79/livehttpplay?channel_id=10131
+10132,http://208.87.242.79/livehttpplay?channel_id=10132
+
+12036,http://208.87.242.79/livehttpplay?channel_id=12036
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
