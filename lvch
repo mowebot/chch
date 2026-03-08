@@ -886,5 +886,31 @@ ftv1 w,http://208.87.242.55/livehttpplay?channel_id=50258
 ftv1 e,http://208.87.242.55/livehttpplay?channel_id=50318
 tsn5,http://208.87.242.55/livehttpplay?channel_id=50321
 
+TSN1,http://208.87.242.55/livehttpplay?channel_id=50206
+TSN2,http://208.87.242.55/livehttpplay?channel_id=12000
 
+TSN3,http://208.87.242.55/livehttpplay?channel_id=12001
+
+TSN4,http://208.87.242.55/livehttpplay?channel_id=12002
+TSN5,http://208.87.242.55/livehttpplay?channel_id=50321
+
+NOW SPORTS 1,http://208.87.242.79/livehttpplay?channel_id=13007
+NOW SPORTS 2,http://208.87.242.79/livehttpplay?channel_id=13008
+ftv1 e99,http://208.87.242.79/livehttpplay?channel_id=50318
+
+sportnet 360,http://208.87.242.55/livehttpplay?channel_id=28000
+sportnet Ontario,http://208.87.242.55/livehttpplay?channel_id=40133
+
+Astro Badminton HD,http://208.87.242.55/livehttpplay?channel_id=13304
+Premier League2 HD,http://208.87.242.55/livehttpplay?channel_id=13303
+Astro Football HD,http://208.87.242.55/livehttpplay?channel_id=13300
+Premier League HD,http://208.87.242.55/livehttpplay?channel_id=13302
+
+Astro Sports Plus HD, http://208.87.242.55/livehttpplay?channel_id=13306
+Astro Badminton 2 HD,http://208.87.242.55/livehttpplay?channel_id=13305
+Astro Grandstand HD,http://208.87.242.55/livehttpplay?channel_id=13301
+
+HubPremier 1,http://208.87.242.55/livehttpplay?channel_id=13307
+HubPremier 2,http://208.87.242.55/livehttpplay?channel_id=13308
+HubPremier 3,http://208.87.242.55/livehttpplay?channel_id=13309
 
