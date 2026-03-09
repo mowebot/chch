@@ -85,6 +85,7 @@ RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m
 FOX NEWS-CHANNEL,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 FOX NEWS-CHANNEL,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 FOX NEWS-CHANNEL,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
+Fox-news channel,http://104.255.88.155/foxnews/tracks-v1a1/mono.ts.m3u8
 Fox-news channel,https://tvpass.org/live/FoxNewsChannel/sd
 Fox-news channel,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 FOX Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
@@ -100,6 +101,7 @@ cnbc-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
 
 MSNBC HD,http://41.205.93.154/MSNBC/index.m3u8
+MSNBC HD,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 
 NBC NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
@@ -372,6 +374,9 @@ TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
 NOW新闻台,https://cdn.163189.xyz/163189/now
 NOW新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
+now新聞台now News,http://208.87.242.79/livehttpplay?channel_id=20041
+HKN財經臺,http://208.87.242.79/livehttpplay?channel_id=13000
+NOW SPORTS 1,http://208.87.242.79/livehttpplay?channel_id=13007
 Now財經台,http://hls.168.us.kg/u/333/master.m3u8
 Now直播台,http://hls.168.us.kg/u/331/master.m3u8
 Now華劇台,http://hls.168.us.kg/u/105/master.m3u8
