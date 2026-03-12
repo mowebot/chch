@@ -1,7 +1,4 @@
 Toronto,#genre#
-tvo,https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-tvo,https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8?DVR=&checkedby:iptvcat.com
-tvo,https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8
 tvo,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.m3u8
 
 omni 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3088.m3u8
@@ -9,7 +6,6 @@ omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.m3u8
 omni 2,https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 omni,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59855.m3u8
 
-global tv,https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 global tv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3277.m3u8
 global tv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3102.m3u8
 
