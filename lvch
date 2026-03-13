@@ -9,13 +9,24 @@ omni,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59855.m3u8
 global tv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3277.m3u8
 global tv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3102.m3u8
 
+ctv,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
+ctv,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+ctv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3269.m3u8
+ctv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3117.m3u8
+
 cbc toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3251.m3u8
 cbc toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21890.m3u8
 cbc toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3125.m3u8
 
 citytv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.m3u8
 
+chch,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.m3u8
+
 the weather network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3059.m3u8
+
+hgtv,http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6456/index.m3u8
+hgtv,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6456/index.m3u8
+hgtv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3100.m3u8
 
 
 CAN Chinese,#genre#
