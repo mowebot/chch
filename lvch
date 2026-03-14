@@ -1,33 +1,88 @@
 Toronto,#genre#
-tvo,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.m3u8
 
-omni 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3088.m3u8
-omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.m3u8
-omni 2,https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-omni,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59855.m3u8
 
-global tv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3277.m3u8
-global tv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3102.m3u8
+
+TSN 1 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
+TSN 2 UHD ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
+TSN 3 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
+TSN 4 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3143.ts
+TSN 5 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
+
+Sportsnet one,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
+Sportsnet 360,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
+Sportsnet NY,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97492.ts
+Sportsnet east,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3072.ts
+Sportsnet west,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3068.ts
+Sportsnet world,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
+Sportsnet ONT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
+Sportsnet PAC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3069.ts
+
+Discovery East (SD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21555.ts
+DISCOVERY FAMILY SD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97454.ts
+DISCOVERY LIFE (SD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97455.ts
+
+TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
+TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
+
+Crave 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3184.ts
+Crave 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3185.ts
+Crave 3,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3186.ts
+Crave 4,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3187.ts
+
+tvo,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.ts
+
+omni 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3088.ts
+omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
+omni 2,https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.ts
+omni,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59855.ts
+
+global tv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3277.ts
+Global TV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3102.ts
+GLOBAL VANCOUVER,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3278.ts
+GLOBAL KINGSTON,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141739.ts
 
 ctv,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 ctv,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-ctv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3269.m3u8
-ctv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3117.m3u8
+ctv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3269.ts
+ctv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3117.ts
+CTV Channel,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
+CA CTV2 VICTORIA,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141733.ts
+CTV2 WINDSOR (B),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141734.ts
+CTV WINNIPEG (B),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141729.ts
+CTV Atlantic HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88028.ts
+CTV (Kitchener),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59859.ts
+es Network (SHD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2377.ts
+CTV 2 (Ottawa),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59863.ts
+CTV Drama (R),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3082.ts
+CTV (Ottawa),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59862.ts
+CTV 2 BARRIE,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141745.ts
+CTV ATLANTIC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141721.ts
+CTV MONTREAL,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3266.ts
+COTTAGE Life,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3260.ts
 
-cbc toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3251.m3u8
-cbc toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21890.m3u8
-cbc toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3125.m3u8
+cbc toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3251.ts
+cbc toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21890.ts
+cbc toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3125.ts
+CBC NEWS,,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3125.m3u8
+CBC Charlottetown,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21882.ts
+CBC St. Johns,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3061.ts
+CBC VANCOUVER,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3252.ts
+CBC Vancouver,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21891.ts
 
-citytv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.m3u8
+CityTV Torontocitytv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.ts
+CITY TORONTO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3253.ts
+CITY TORONTO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3255.ts
 
-chch,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.m3u8
 
-the weather network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3059.m3u8
+
+ChCh,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.ts
+
+
 
 hgtv,http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6456/index.m3u8
 hgtv,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6456/index.m3u8
 hgtv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3100.m3u8
-
+HGTV East UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3654.ts
 
 CAN Chinese,#genre#
 新時代1 E,http://208.87.242.55/livehttpplay?channel_id=50318
@@ -36,15 +91,16 @@ CAN Chinese,#genre#
 城市電視,http://208.87.242.55/livehttpplay?channel_id=40319
 
 CAN,#genre#
-CP24(TEST1),http://fortv.cc:8080/b6twFE/414151/47218
-CP24(TEST2),http://nocable.cc:8080/5AGbfz/324331/57257
-CP24(TEST2),http://tvmate.icu:8080/99437538/28260477/57357
+CP24,http://fortv.cc:8080/b6twFE/414151/47218
+CP24,http://nocable.cc:8080/5AGbfz/324331/57257
+CP24,http://tvmate.icu:8080/99437538/28260477/57357
 CP24,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1350.m3u8
 CP24,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1350.m3u8
 CP24,http://208.87.242.55/livehttpplay?channel_id=50205
 CP24,http://iptvpro.pw:35451//live/87654321/12345678/1350.m3u8
-CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3121.m3u8
-CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3261.m3u8
+CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3121.ts
+CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3091.ts
+CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3261.ts
 
 CP24,http://iptvpro.pw:35451//live/swtv123/87654321/1350.m3u8
 
@@ -52,6 +108,8 @@ Weather Network,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1372.m3u8
 Weather Network,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1372.m3u8
 Weather Network,http://iptvpro.pw:35451//live/swtv123/87654321/1372.m3u8
 Weather Network,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
+Weather Network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3059.ts
+
 Weather Network,http://iptvpro.pw:35451//live/87654321/12345678/1372.m3u8
 
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
