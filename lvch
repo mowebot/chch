@@ -36,14 +36,25 @@ Omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
 Omni 2,https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.ts
 Omni,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59855.ts
 
+
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
 
+Global Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
 Global Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1455.m3u8
 Global Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1455.m3u8
 Global Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1455.m3u8
 
 Global Toronto,http://iptvpro.pw:35451//live/87654321/12345678/1455.m3u8
+
+Global British Columbia,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
+Global News Calgary, https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8?checkedby:iptvcat.com
+Global News Edmonton,https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8?checkedby:iptvcat.com
+Global News Lethbridge,https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8?checkedby:iptvcat.com
+Global News Okanagan,https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8?checkedby:iptvcat.com
+Global Toronto,https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:iptvcat.com
+Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+Global Toronto,https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 
 global tv,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3277.ts
 Global TV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3102.ts
@@ -55,6 +66,9 @@ CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_T
 
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
+CityNews Calgary,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-1Mbps.m3u8
+CityNews Vancouver,https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/Video-1Mbps.m3u8
+
 
 CityTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1438.m3u8
 CityTV,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1438.m3u8
@@ -89,6 +103,13 @@ CTV 2 BARRIE,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141745.t
 CTV ATLANTIC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/141721.ts
 CTV MONTREAL,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3266.ts
 COTTAGE Life,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3260.ts
+
+CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+CBC Vancouver,https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+CBC Calgary,https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+CBC Edmonton,https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+CBC Ottawa,https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+CBC MONTREAL,https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 
 cbc toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3251.ts
 cbc toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21890.ts
