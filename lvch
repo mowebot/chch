@@ -1184,12 +1184,17 @@ Rogers,#genre#
 02 TVO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.ts
 
 03 Global News Calgary, https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+03 Global News Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 03 Global Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3277.ts
 03 Global Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3102.ts
+03 Global Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
+03 Global Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1455.m3u8
+03 Global Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1455.m3u8
+03 Global Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1455.m3u8
 
 04 Omni 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3088.ts
 
-05 blank,
+05 blank TV Guide,
 
 06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3251.ts
 06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21890.ts
@@ -1197,9 +1202,15 @@ Rogers,#genre#
 06 CBC Toronto,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 
 07 CityTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.ts
+07 CityTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1438.m3u8
+07 CityTV,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1438.m3u8
+07 CityTV,http://iptvpro.pw:35451//live/swtv123/87654321/1438.m3u8
+07 CityTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3253.ts
+07 CityTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3255.ts
 
-08 Global News,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-
+08 CTV Toronto,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1435.m3u8
+08 CTV Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1435.m3u8
+08 CTV Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1435.m3u8
 08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3117.ts
 
 09 YesTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3049.ts
@@ -1219,14 +1230,96 @@ Rogers,#genre#
 16 CBS,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
 
 17 Sportsnet one,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
+17 Sportsnet 360,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
+17 Sportsnet NY,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97492.ts
+17 Sportsnet east,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3072.ts
+17 Sportsnet west,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3068.ts
+17 Sportsnet world,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
+17 Sportsnet ONT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
+17 Sportsnet PAC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3069.ts
 
 18 ABC,http://41.205.93.154/ABC/index.m3u8
 18 ABC,https://tvpass.org/live/WABCDT1/hd
 18 ABC,https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 
 19 TSC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3075.ts
+19 TSC,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 20 CTV 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/93008.ts
+
+21 FOX, 
+
+22 Weather Network,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1372.m3u8
+22 Weather Network,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1372.m3u8
+22 Weather Network,http://iptvpro.pw:35451//live/swtv123/87654321/1372.m3u8
+22 Weather Network,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
+22 Weather Network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3059.ts
+
+23 CBC News Network,
+
+24 CP24,http://fortv.cc:8080/b6twFE/414151/47218
+24 CP24,http://nocable.cc:8080/5AGbfz/324331/57257
+24 CP24,http://tvmate.icu:8080/99437538/28260477/57357
+24 CP24,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1350.m3u8
+24 CP24,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1350.m3u8
+24 CP24,http://208.87.242.55/livehttpplay?channel_id=50205
+24 CP24,http://iptvpro.pw:35451//live/87654321/12345678/1350.m3u8
+24 CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3121.ts
+24 CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3091.ts
+24 CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3261.ts
+
+25 YTV,
+
+26 TSN 1 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
+26 TSN 2 UHD ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
+26 TSN 3 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
+26 TSN 4 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3143.ts
+26 TSN 5 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
+
+27 W Network, network,https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
+
+28 TLN,network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647752.ts
+
+29 Showcase,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3066.ts
+29 Showcase,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6526/index.m3u8
+29 Showcase,http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6526/index.m3u8
+29 Showcase,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3966.ts
+
+30 MUCH,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3149.ts
+30 MUCH,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3094.ts
+
+31 A&E,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3141.ts
+31 A&E,https://tvpass.org/live/AEEast/sd
+
+32 Sportsnet Ontario,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
+
+33 CNN,https://tvpass.org/live/CNN/sd
+33 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+34 TLC,C,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
+34 TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
+
+35 HGTV,https://tvpass.org/live/HGTVEast/sd
+35 HGTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3836.ts
+35 HGTV,http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6456/index.m3u8
+35 HGTV,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6456/index.m3u8
+35 HGTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3100.ts
+35 HGTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3654.ts
+
+36 Fairchild TV,
+
+37 Slice,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3078.ts
+
+38 CMT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3122.ts
+38 CMT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3623.ts
+38 CMT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97451.ts
+38 CMT,http://nor1live.win/livehttpplay?channel_id=23077
+
+39 AMC,http://148.113.160.49:14209
+39 AMC,http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+39 AMC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3132.m3u8
+
+40 CTV Drama,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3082.ts
 
 
 
