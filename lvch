@@ -1211,8 +1211,45 @@ Rogers,#genre#
 10 NBC,https://stream1.freetv.fun/ef2104154f6b1d1047c2b6cfd2286c9adbe86b22da7e2aaa919c2720bbde02c9.m3u8
 10 NBC,http://41.205.93.154/NBC/index.m3u8
 
-Omni 2,https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-Omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
+11 ChCh,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.ts
+
+12 ici tele,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3076.ts
+12 ici tele,https://pnt.janusmedia.tv/hls/pnt.m3u8
+
+13 blank TFO,
+
+14 Omni 2,https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+14 Omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
+
+15 FX,http://hxwangcong.x3322.net:26000/
+15 FX,http://170.254.18.106/FX/index.m3u8
+15 FX,https://streamer1.nexgen.bz/FX/index.m3u8
+15 FX,https://fl5.moveonjoy.com/FX/index.m3u8
+15 FX,https://fl1.moveonjoy.com/FX/index.m3u8
+15 FX,https://tvpass.org/live/FXEast/hd
+15 FX,https://fl2.moveonjoy.com/FX/index.m3u8
+
+16 CBS,http://tvpremiumhd.club/lista-gratuita/221424/cbsnews.m3u8
+16 CBS,http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8&checkedby:iptvcat.com
+16 CBS,http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master&checkedby:iptvcat.com
+16 CBS,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
+
+17 Sportsnet one,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
+17 Sportsnet one,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6438/index.m3u8
+17 Sportsnet one,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6438/index.m3u8
+17 Sportsnet one,http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6438/index.m3u8
+
+18 ABC,http://180.212.220.88:8888/rtp/239.5.1.134:5000
+18 ABC,http://41.205.93.154/ABC/index.m3u8
+18 ABC,http://41.205.93.154/ABC/index.m3u8
+18 ABC,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d&serverSideAds=false&checkedby:iptvcat.com
+18 ABC,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d&checkedby:iptvcat.com
+18 ABC,https://tvpass.org/live/WABCDT1/hd
+18 ABC,https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+
+19 TSC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3075.ts
+
+20 CTV 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/93008.ts
 
 
 
