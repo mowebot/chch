@@ -1178,7 +1178,41 @@ TVB戏曲台,http://194.147.100.173/jsy/p.php/?id=AW6igsJTU5l0vwO7clQVSQ
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVB明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 
+Rogers,#genre#
+01 CityNews,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
+02 TVO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.ts
+
+03 Global Toronto, https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+03 Global Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3277.ts
+03 Global Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3102.ts
+
+04 Omni 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3088.ts
+
+05 blank,
+
+06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3251.ts
+06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21890.ts
+06 CBC Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3125.ts
+06 CBC Toronto,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+
+07 CityTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3123.ts
+
+08 CTV Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
+08 CTV Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3117.ts
+
+09 YesTV,https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+09 YesTV,https://stream1.aswifi.it/radioyes/live/index.m3u8
+09 YesTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+09 YesTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3049.ts
+
+10 NBC,https://streamer2.nexgen.bz/NBC/index.m3u8
+10 NBC,https://stream1.freetv.fun/ef2104154f6b1d1047c2b6cfd2286c9adbe86b22da7e2aaa919c2720bbde02c9.m3u8
+10 NBC,http://41.205.93.154/NBC/index.m3u8
+
+Omni 2,https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+Omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
 
 
 
