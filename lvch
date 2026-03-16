@@ -175,9 +175,6 @@ CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_T
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 
-City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
-
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -1225,10 +1222,14 @@ Rogers,#genre#
 08 CTV Toronto,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1435.m3u8
 08 CTV Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1435.m3u8
 08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3117.ts
+08 CTV Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
+08 CTV Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3269.ts
+08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
 
 09 YesTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3049.ts
 
-10 NBC,
+10 NBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
 
 11 ChCh,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.ts
 
@@ -1239,6 +1240,7 @@ Rogers,#genre#
 14 Omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
 
 15 FX,https://tvpass.org/live/FXEast/hd
+15 FX,http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
 
 16 CBS,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
 
@@ -1352,6 +1354,7 @@ Rogers,#genre#
 46 TCM,http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
 47 CARTOON NETWORK HD,http://nor1live.win/livehttpplay?channel_id=23045
+47 CARTOON NETWORK,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3248.ts
 
 50 CTV Comedy
 51 FX
@@ -1368,16 +1371,31 @@ Rogers,#genre#
 
 63 CTV News Channel (R),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
 
-64 CTV Lifehttps://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3280.ts
+64 CTV Life,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3280.ts
 
 65 Treehouse,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3057.ts
 
-66 BNN,Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-66 BNN,Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-66 BNN,Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+66 BNN,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+66 BNN,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+66 BNN,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 
-
-
+TSN 1 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
+TSN 2 UHD ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
+TSN 3 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
+TSN 4 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3143.ts
+TSN 5 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
+NBA TV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2470.ts
+SKY F1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
+TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
+TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
+Crave 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3184.ts
+Crave 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3185.ts
+Crave 3,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3186.ts
+Crave 4,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3187.ts
+Discovery East (SD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21555.ts
+DISCOVERY FAMILY SD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97454.ts
+DISCOVERY LIFE (SD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97455.ts
+Lifetime East (SHD),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/645914.ts
 
 
 
