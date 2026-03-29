@@ -1208,6 +1208,8 @@ Rogers,#genre#
 01 CityNews,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
 02 TVO,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59856.ts
+02 TVO,http://fortv.cc:8080/b6twFE/414151/57369
+02 TVO,http://fortv.cc:8080/Alan/Alan/57369
 
 03 Global News Calgary, https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 03 Global News Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
@@ -1219,6 +1221,8 @@ Rogers,#genre#
 03 Global Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1455.m3u8
 
 04 Omni 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3088.ts
+04 Omni 1,http://fortv.cc:8080/b6twFE/414151/57365
+04 Omni 1,http://fortv.cc:8080/Alan/Alan1234/57365
 
 05 blank TV Guide,
 
@@ -1244,14 +1248,23 @@ Rogers,#genre#
 08 CTV Toronto,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
 
 09 YesTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3049.ts
+09 YesTV,http://fortv.cc:8080/b6twFE/414151/57472
+09 YesTV,http://fortv.cc:8080/Alan/Alan1234/57472
 
 10 NBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
 
 11 ChCh,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3124.ts
+11 ChCh,http://fortv.cc:8080/b6twFE/414151/57393
+11 ChCh,http://fortv.cc:8080/Alan/Alan1234/57393
 
 12 ici tele,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3076.ts
+ICI TELE,http://fortv.cc:8080/b6twFE/414151/57484
+ICI TELE,http://fortv.cc:8080/b6twFE/414151/57485
+ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57484
+ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57485
 
-13 blank TFO,
+13 TFO,http://fortv.cc:8080/b6twFE/414151/57495
+13 TFO,http://fortv.cc:8080/Alan/Alan1234/57495
 
 14 Omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
 
@@ -1285,6 +1298,8 @@ Rogers,#genre#
 22 Weather Network,http://iptvpro.pw:35451//live/swtv123/87654321/1372.m3u8
 22 Weather Network,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
 22 Weather Network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3059.ts
+22 Weather Network,http://fortv.cc:8080/b6twFE/414151/57470
+22 Weather Network,http://fortv.cc:8080/Alan/Alan1234/57470
 
 23 CBC News Network,
 
@@ -1307,7 +1322,9 @@ Rogers,#genre#
 26 TSN 4 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3143.ts
 26 TSN 5 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
 
-27 W Network, network,https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
+27 W Network,https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
+27 W Network,http://fortv.cc:8080/b6twFE/414151/57284
+27 W Network,http://fortv.cc:8080/Alan/Alan1234/57284
 
 28 TLN,network,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/647752.ts
 
@@ -1340,6 +1357,8 @@ Rogers,#genre#
 36 Fairchild TV,
 
 37 Slice,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3078.ts
+37 Slice,http://fortv.cc:8080/b6twFE/414151/57274
+37 Slice,http://fortv.cc:8080/Alan/Alan1234/57274
 
 38 CMT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3122.ts
 38 CMT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3623.ts
@@ -1351,7 +1370,9 @@ Rogers,#genre#
 39 AMC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3132.m3u8
 
 40 CTV Drama,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3082.ts
-
+40 CTV Drama,http://fortv.cc:8080/b6twFE/414151/57254
+40 CTV Drama,http://fortv.cc:8080/Alan/Alan1234/57254
+Alan/Alan1234/
 41 HLN,http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
 
 42 USA HD,http://nor1live.win/livehttpplay?channel_id=23112
@@ -1372,7 +1393,9 @@ Rogers,#genre#
 47 CARTOON NETWORK HD,http://nor1live.win/livehttpplay?channel_id=23045
 47 CARTOON NETWORK,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3248.ts
 
-50 CTV Comedy
+50 CTV Comedy,http://fortv.cc:8080/b6twFE/414151/57408
+50 CTV Comedy,http://fortv.cc:8080/Alan/Alan1234/57408
+
 51 FX
 52 Flavour
 
@@ -1380,6 +1403,8 @@ Rogers,#genre#
 54 HISTORY,http://nor1live.win/livehttpplay?channel_id=23105
 
 55 CTV Sci-Fi,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
+55 CTV Sci-Fi,http://fortv.cc:8080/b6twFE/414151/57464
+55 CTV Sci-Fi,http://fortv.cc:8080/Alan/Alan1234/57464
 
 58 Dtour,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3110.ts
 
@@ -1388,6 +1413,7 @@ Rogers,#genre#
 63 CTV News Channel (R),https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3060.ts
 
 64 CTV Life,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3280.ts
+
 
 65 Treehouse,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3057.ts
 
