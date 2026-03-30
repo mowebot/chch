@@ -5,20 +5,7 @@ CAN Chinese,#genre#
 新時代1 W,http://208.87.242.55/livehttpplay?channel_id=50258
 新時代2,http://208.87.242.55/livehttpplay?channel_id=50208
 城市電視,http://208.87.242.55/livehttpplay?channel_id=40319
-CP24(TEST)1,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
-CP24(TEST)2,http://tvmate.icu:8080/99437538/28260477/57357
-CP24(TEST 2)3,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
-CP24(TEST 2)4,http://fortv.cc:8080/b6twFE/414151/47218
-CP24(TEST)5,http://cord-cutter.net:8080/25464931/30585186/57257
-CP24俻6,http://fortv.cc:8080/b6twFE/414151/57257
-CP24俻,http://fortv.cc:8080/b6twFE/414151/57345
-TNT,http://fortv.cc:8080/b6twFE/414151/10455
-TSN 1,http://fortv.cc:8080/b6twFE/414151/57292
-Sportsnet East,http://fortv.cc:8080/b6twFE/414151/57298
-Sportsnet Ontario,http://fortv.cc:8080/b6twFE/414151/57463
-Sky Golf,http://fortv.cc:8080/b6twFE/414151/35240
-Fishing,http://fortv.cc:8080/b6twFE/414151/10477
-TSN 1cc,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
+
 
 CAN,#genre#
 CP24,http://fortv.cc:8080/b6twFE/414151/57257
@@ -1223,6 +1210,8 @@ Rogers,#genre#
 04 Omni 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3088.ts
 04 Omni 1,http://fortv.cc:8080/b6twFE/414151/57365
 04 Omni 1,http://fortv.cc:8080/Alan/Alan1234/57365
+04 Omni 1,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1389.m3u8
+04 Omni 1,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1389.m3u8
 
 05 blank TV Guide,
 
@@ -1266,7 +1255,9 @@ ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57485
 13 TFO,http://fortv.cc:8080/b6twFE/414151/57495
 13 TFO,http://fortv.cc:8080/Alan/Alan1234/57495
 
-14 Omni 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
+14 Omni 2,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1450.m3u8
+14 Omni 2,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1450.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
 
 15 FX,https://tvpass.org/live/FXEast/hd
 15 FX,http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
@@ -1314,7 +1305,8 @@ ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57485
 24 CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3091.ts
 24 CP24,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3261.ts
 
-25 YTV,
+25 YTV,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1390.m3u8
+25 YTV,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1390.m3u8
 
 26 TSN 1 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
 26 TSN 2 UHD ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
@@ -1372,7 +1364,7 @@ ICI TELE,http://fortv.cc:8080/Alan/Alan1234/57485
 40 CTV Drama,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3082.ts
 40 CTV Drama,http://fortv.cc:8080/b6twFE/414151/57254
 40 CTV Drama,http://fortv.cc:8080/Alan/Alan1234/57254
-Alan/Alan1234/
+
 41 HLN,http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
 
 42 USA HD,http://nor1live.win/livehttpplay?channel_id=23112
